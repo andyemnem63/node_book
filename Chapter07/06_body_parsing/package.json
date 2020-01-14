@@ -1,0 +1,12 @@
+{
+  "name": "Express-Demo",
+  "description": "Demonstrates Using Express and Connect",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "1.x",
+    "express": "4.x",
+    "morgan": "1.x",
+    "multer": "1.x"
+  }
+}

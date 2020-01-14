@@ -1,0 +1,10 @@
+{
+  "name": "Modules-Demo",
+  "description": "Demonstrates Using Modules, specificaly async",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "2.x",
+    "bluebird": "3.x"
+  }
+}
